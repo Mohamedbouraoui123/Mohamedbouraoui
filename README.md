@@ -21,10 +21,11 @@
 
 [<img src="https://skillicons.dev/icons?i=html" width="40" title="HTML Guide" />](https://www.w3.org/html/)
 [<img src="https://skillicons.dev/icons?i=css" width="40" title="CSS Guide" />](https://www.w3schools.com/Css/)
-[<img src="https://skillicons.dev/icons?i=js" width="40" title="JavaScript Guide" />]https://www.java.com/fr/)
+[<img src="https://skillicons.dev/icons?i=js" width="40" title="JavaScript Guide" />](https://www.java.com/fr/)
 [<img src="https://skillicons.dev/icons?i=python" width="40" title="Python Docs" />](https://docs.python.org/3/)
 [<img src="https://skillicons.dev/icons?i=git" width="40" title="Git Handbook" />](https://git-scm.com/doc)
 [<img src="https://skillicons.dev/icons?i=vscode" width="40" title="VS Code Docs" />](https://code.visualstudio.com/docs)
+
 
 
 
